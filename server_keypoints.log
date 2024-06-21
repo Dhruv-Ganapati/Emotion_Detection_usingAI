@@ -1,0 +1,5 @@
+[warn] getaddrinfo: address family for nodename not supported
+[evhttp_server.cc : 233] NET_LOG: Couldn't bind to port 8501
+[evhttp_server.cc : 66] NET_LOG: Server has not been terminated. Force termination now.
+[evhttp_server.cc : 268] NET_LOG: Server is not running ...
+2024-05-22 19:21:59.471709: E tensorflow_serving/model_servers/server.cc:446] Failed to start HTTP Server at localhost:8501
